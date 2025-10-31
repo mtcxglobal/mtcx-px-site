@@ -1,0 +1,8 @@
+PX_Manifest_RevA
+title: PX Protocol — Proof of Intelligence Economy (Rev A)
+origin_url: https://px-protocol.netlify.app/
+timestamp_label: 2025-10-31
+signers:
+  - human: "Cenk A."
+  - ai: "AI Co-Author"
+SHA256: 34648e960dee1db1a8f06214ba5db9ecf3cebb72a4c78e0c83eea6b65267b6fa
